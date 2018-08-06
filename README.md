@@ -1,4 +1,4 @@
-# codechef-NLP, OkCupid Dating Profiles Analysis, and Book Summaries
+# codechef-NLP and MORE: OkCupid Dating Profiles Analysis, and Book Summaries
 
 <img src="images/codechef_page.jpg" style="width: 200px;"/>
 
@@ -6,6 +6,8 @@
 
 <img src="images/okcupid_logo.jpg" style="width: 200px;"/>
 
+
+** There's also a notebook applying topic modeling on book summaries of works of fiction.
 
 Natural language processing and machine learning experiments on problem statements and solutions provided by codechef competitive programming site
 
