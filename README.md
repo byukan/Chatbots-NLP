@@ -1,8 +1,10 @@
-# codechef-NLP and OkCupid Dating Profiles Analysis
+# codechef-NLP, OkCupid Dating Profiles Analysis, and Book Summaries
 
-** I've added a notebook on OkCupid Dating Profiles Analysis.  In it, I apply topic modeling to OkCupid bios, using data that was obtained using an API.  The algorithm clusters men and women into groups based on what they type in their description.
+<img src="images/codechef_page.jpg" style="width: 200px;"/>
 
-<img src="images/okcupid_logo.jpg" style="width: 500px;"/>
+** I've also added a notebook on OkCupid Dating Profiles Analysis.  In it, I apply topic modeling to OkCupid bios, using data that was obtained using an API.  The algorithm clusters men and women into groups based on what they type in their description.
+
+<img src="images/okcupid_logo.jpg" style="width: 200px;"/>
 
 
 Natural language processing and machine learning experiments on problem statements and solutions provided by codechef competitive programming site
