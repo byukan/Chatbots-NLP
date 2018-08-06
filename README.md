@@ -1,4 +1,10 @@
-# codechef-NLP
+# codechef-NLP and OkCupid Dating Profiles Analysis
+
+** I've added a notebook on OkCupid Dating Profiles Analysis.  In it, I apply topic modeling to OkCupid bios, using data that was obtained using an API.  The algorithm clusters men and women into groups based on what they type in their description.
+
+<img src="images/okcupid_logo.jpg" style="width: 500px;"/>
+
+
 Natural language processing and machine learning experiments on problem statements and solutions provided by codechef competitive programming site
 
 How might we train a model to predict difficulty level using the question statement?
