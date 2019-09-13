@@ -1,5 +1,7 @@
 # codechef-NLP and MORE: OkCupid Dating Profiles Analysis, and Book Summaries
 
+## - 9/13/19: Adding production-style development workflow using Docker and Kubernetes
+
 <img src="images/codechef_page.jpg" style="width: 200px;"/>
 
 ** I've also added a notebook on OkCupid Dating Profiles Analysis.  In it, I apply topic modeling to OkCupid bios, using data that was obtained using an API.  The algorithm clusters men and women into groups based on what they type in their description.
