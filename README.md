@@ -1,6 +1,6 @@
 # codechef-NLP and MORE: OkCupid Dating Profiles Analysis, and Book Summaries
 
-## - 9/13/19: Adding production-style development workflow using Docker and Kubernetes
+#### - 9/13/19: Adding production-style development workflow using Docker and Kubernetes
 
 <img src="images/codechef_page.jpg" style="width: 200px;"/>
 
