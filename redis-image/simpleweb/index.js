@@ -1,7 +1,7 @@
 // index.js contains server logic
 const express = require('express');
 
-cosnst app = express();
+const app = express();
 
 // set up a single route handler
 app.get('/', (req, res) => {
