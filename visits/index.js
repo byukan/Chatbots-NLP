@@ -1,13 +1,18 @@
 // holds all of our actual application code
 //requre libraries
+// import express from 'express';
+// import { createClient } from 'redis';
 const express = require('express');
 const redis = require('redis');
 
 // instance of express application
-const app = expreess();
+const app = express();
 // set up connection to redis server
-// eventually we'll specify the host/url/address we're trying to connect to
-const client = redis.createClient();
+// specify the host/url/address we're trying to connect to
+const client = redis.createClient({
+    host: 'redis-server',
+    post: 6379
+});
 client.set('visits', 0);
 
 // route handler for root route
