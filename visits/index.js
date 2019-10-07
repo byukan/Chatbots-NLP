@@ -4,6 +4,7 @@
 // import { createClient } from 'redis';
 const express = require('express');
 const redis = require('redis');
+const process = require('process');
 
 // instance of express application
 const app = express();
@@ -17,6 +18,7 @@ client.set('visits', 0);
 
 // route handler for root route
 app.get('/', (req, res) => {
+    process.exit(0);
     client.get('visits', (err, visits) => {
         res.send('Number of visits is ' + visits);
         // update number of times this page has been visited
