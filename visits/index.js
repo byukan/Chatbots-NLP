@@ -18,7 +18,7 @@ client.set('visits', 0);
 
 // route handler for root route
 app.get('/', (req, res) => {
-    process.exit(0);
+    process.exit(0);  // exit status code, 0 means we exited and everything is OK
     client.get('visits', (err, visits) => {
         res.send('Number of visits is ' + visits);
         // update number of times this page has been visited
