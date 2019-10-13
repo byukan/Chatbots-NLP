@@ -8,6 +8,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
+          Brant Yukan
+          <br></br>
+          Do you think you're better off alone?
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a

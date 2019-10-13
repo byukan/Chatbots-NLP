@@ -1,0 +1,13 @@
+# docker-compose.yml
+version: '3'
+services:
+  web:
+    build: 
+      # context specifies where you want all your files and folder to be pulled from
+      context: .
+      dockerfile: Dockerfile.dev
+    ports:
+      - "3000:3000"
+    volumes:
+      - /app/node_modules
+      - .:/app
