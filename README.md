@@ -1,5 +1,7 @@
 # Chatbots using NLP approaches from NLPIA, Lane, et al.
 
+The nlpia package is found at https://github.com/totalgood/nlpia.
+
 # codechef-NLP and MORE: OkCupid Dating Profiles Analysis, and Book Summaries
 
 #### - 9/13/19: Adding production-style development workflow using Docker and Kubernetes
