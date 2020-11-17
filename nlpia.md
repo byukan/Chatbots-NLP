@@ -2,4 +2,6 @@
 p 433 - docker containers  
 p 439 - jupyter exercises  
 Bayesian search/autoML for hyperparameter tuning  
-lshash3
+lshash3, approximate nearest neighbor search
+    - Facebook's FAISS package
+    - Spotify's Annoy package
