@@ -1,3 +1,10 @@
+## Named-entity recognition to extract a person's name and label documents
+
+*OCR and document labelling for medical files*
+
+[NER - auto document labelling](https://github.com/byukan/Chatbots-NLP/tree/master/NER%20-%20auto%20document%20labelling)
+
+
 # Chatbots using NLP approaches from NLPIA, Lane, et al.
 
 The nlpia package is found at https://github.com/totalgood/nlpia.
