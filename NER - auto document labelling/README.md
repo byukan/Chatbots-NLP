@@ -1,5 +1,5 @@
 # document-classification
-OCR and doccument classification for medical files
+OCR and document classification for medical files
 
 ## Product Ideas
 - knowledge base chatbot for medical conditions
