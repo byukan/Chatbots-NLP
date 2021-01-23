@@ -1,4 +1,4 @@
-## Named-entity recognition to extract a person's name and label documents
+# Named-entity recognition to extract a person's name and label documents
 
 *OCR and document labelling for medical files*
 
