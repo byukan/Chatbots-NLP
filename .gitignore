@@ -354,3 +354,4 @@ dmypy.json
 .pyre/
 *.h5
 *.preproc
+.DS_Store
